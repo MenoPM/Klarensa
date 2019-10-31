@@ -1,0 +1,46 @@
+/* tags */
+body{
+  background-color: #343A40;
+}
+h2 {
+  font-family: 'Merienda One', cursive;
+  color: #c9d6df;
+}
+
+h3 {
+  font-family: 'Anton', sans-serif;
+}
+
+a {
+  font-family: 'Merienda One', cursive;
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+}
+
+
+/* class */
+
+
+.brand-name {
+  font-size: 14vw;
+  font-family: 'Monsieur La Doulaise', cursive;
+  font-weight: normal;
+  color: #f6c90e;
+  margin: 50px 0 0 50px;
+
+
+}
+.main-img-r {
+  width: 40%;
+  filter: drop-shadow(2px 4px 6px black);
+  margin-left: 100px;
+
+
+
+}
+
+ /* id */
+ #main-section{
+   background-color: #F8F9FA;
+ }
