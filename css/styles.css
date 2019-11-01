@@ -17,7 +17,7 @@ a {
   font-family: 'Montserrat', cursive;
 
   color: black;
-  padding: 20px;
+
   text-decoration: none;
 }
 
@@ -41,7 +41,7 @@ a {
 }
 .btn-outline-light{
     font-family: 'Montserrat', cursive;
-        margin-left: 25%;
+        margin-left: 15%;
         margin-top: 3%;
 }
 .navbar-brand{
