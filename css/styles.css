@@ -1,6 +1,7 @@
 /* tags */
 body{
   background-color: #F8F9FA;
+  font-family: 'Montserrat', cursive;
 }
 h2 {
   font-family: 'Merienda One', cursive;
@@ -43,7 +44,9 @@ a {
         margin-left: 25%;
         margin-top: 3%;
 }
-
+.navbar-brand{
+    font-family: 'Monsieur La Doulaise', cursive;
+}
  /* id */
  #main-section{
    background-color: #343A40;
@@ -51,4 +54,6 @@ a {
  }
  #wedding{
    font-weight:bolder;
+   font-size: 3rem;
+    color: white;
  }
