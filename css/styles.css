@@ -37,12 +37,11 @@ a {
   filter: drop-shadow(2px 4px 6px black);
 }
 .container-fluid{
-  padding: 3%  15%;
+
 }
 .btn-outline-light{
     font-family: 'Montserrat', cursive;
-        margin-left: 15%;
-        margin-top: 3%;
+
 }
 .navbar-brand{
     font-family: 'Monsieur La Doulaise', cursive;
