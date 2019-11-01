@@ -2,6 +2,7 @@
 body{
   background-color: #F8F9FA;
   font-family: 'Montserrat', cursive;
+  text-align: center;
 }
 h2 {
   font-family: 'Merienda One', cursive;
@@ -48,6 +49,17 @@ padding: 3% 0;
 }
 .nav-item{
   padding: 0 18px;
+}
+.feature:hover{
+  color: gold;
+}
+.f-p{
+color: #5A6268;
+width: 50%;
+margin: 0 auto;
+}
+.col-md-3{
+  padding: 3% 0;
 }
  /* id */
  #main-section{
