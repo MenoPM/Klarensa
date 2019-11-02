@@ -118,7 +118,7 @@ margin: 1rem;
   color: #c9d6df;
   margin: 0 auto;
   padding: 1rem;
-padding-right: 50%;
+padding-right: 20%;
 font-weight: bold;
 
 }
@@ -126,7 +126,7 @@ font-weight: bold;
   color: #c9d6df;
   margin: 0 auto;
   padding: 1rem;
-padding-left: 50%;
+padding-left: 10%;
 font-weight: bold;
 
 
@@ -139,5 +139,5 @@ font-weight: bold;
 /* last-section */
 .last-section{
   height: 3rem;
-  
+
 }
