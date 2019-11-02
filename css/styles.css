@@ -1,8 +1,9 @@
-/* tags */
+/* my css */
 body{
   background-color: #F8F9FA;
   font-family: 'Montserrat', cursive;
   text-align: center;
+  margin: 0;
 }
 h2 {
   font-family: 'Merienda One', cursive;
@@ -16,16 +17,33 @@ h3 {
 
 a {
   font-family: 'Montserrat', cursive;
-
   color: black;
-
   text-decoration: none;
 }
+.container-fluid{
+padding-bottom: 2rem;
+}
 
-
-/* class */
-
-
+/* navigation bar */
+.navbar-brand{
+    font-family: 'Monsieur La Doulaise', cursive;
+}
+.nav-item{
+padding: 0 18px;
+}
+.col-lg-3{
+ padding: 3% 0;
+}
+/* main-section */
+#main-section{
+  background-color: #343A40;
+  margin-top: 56px;
+}
+#wedding{
+  font-weight:bolder;
+  font-size: 3rem;
+   color: white;
+}
 .brand-name {
   font-size: 6.5rem;
   font-family: 'Monsieur La Doulaise', cursive;
@@ -34,40 +52,23 @@ a {
   margin-top: 50px;
 }
 .main-img-r {
-  /* width: 40%; */
   filter: drop-shadow(2px 4px 6px black);
-}
-.container-fluid{
-padding: 3% 0;
+  margin-bottom: 1rem;
 }
 .btn-outline-light{
     font-family: 'Montserrat', cursive;
+}
 
-}
-.navbar-brand{
-    font-family: 'Monsieur La Doulaise', cursive;
-}
-.nav-item{
-  padding: 0 18px;
+/* feature-section */
+.feature{
+  padding-bottom: 1rem;
+  color: #343A40;
 }
 .feature:hover{
-  color: gold;
+  color: #f6c90e;
 }
 .f-p{
 color: #5A6268;
 width: 50%;
 margin: 0 auto;
 }
-.col-lg-3{
-  padding: 3% 0;
-}
- /* id */
- #main-section{
-   background-color: #343A40;
-   margin-top: 56px;
- }
- #wedding{
-   font-weight:bolder;
-   font-size: 3rem;
-    color: white;
- }
